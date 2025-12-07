@@ -1,10 +1,10 @@
 # ZATO_PL
 Polish translation for Z.A.T.O // Polskie tłumaczenie Z.A.T.O
 
-|![Screenshot 1](Screenshots/screenshot0001.png)|![Screenshot 2](Screenshots/screenshot0002.png)|![Screenshot 3](Screenshots/screenshot0003.png)|
+|![Screenshot 1](Screenshots/screenshot0001.png)|![Screenshot 2](Screenshots/screenshot0008.png)|![Screenshot 3](Screenshots/screenshot0002.png)|
 |-|-|-|
-|![Screenshot 4](Screenshots/screenshot0004.png)|![Screenshot 5](Screenshots/screenshot0005.png)|![Screenshot 6](Screenshots/screenshot0006.png)|
-|![Screenshot 7](Screenshots/screenshot0007.png)| | |
+|![Screenshot 4](Screenshots/screenshot0003.png)|![Screenshot 5](Screenshots/screenshot0004.png)|![Screenshot 6](Screenshots/screenshot0005.png)|
+|![Screenshot 7](Screenshots/screenshot0009.png)|![Screenshot 8](Screenshots/screenshot0006.png)|![Screenshot 9](Screenshots/screenshot0007.png)|
 
 ## Installation // Instalacja
 
